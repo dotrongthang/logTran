@@ -1,0 +1,6 @@
+2024-02-19 11:11:12.239 [main] INFO  wo.external.Main - Convert Ip address to location: Start!
+2024-02-19 11:11:12.248 [main] INFO  wo.external.Main - Convert Ip address to location: Input file = D:/Java/GRP91021TH_20231129.csv
+2024-02-19 11:11:12.248 [main] INFO  wo.external.Main - Convert Ip address to location: Output file = D:/Java/out/GRP91021TH_20231129.csv
+2024-02-19 11:11:12.248 [main] INFO  wo.external.Main - Convert Ip address to location: File type = CSV
+2024-02-19 11:11:12.248 [main] INFO  wo.external.Main - Convert Ip address to location: Start reading file: D:/Java/GRP91021TH_20231129.csv
+2024-02-19 11:11:12.249 [main] INFO  wo.external.Main - Convert Ip address to location: Finish!

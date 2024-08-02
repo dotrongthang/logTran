@@ -1,0 +1,11 @@
+2024-08-01 14:53:28.968 [main] INFO  wo.external.Main - Convert Ip address to location: Start!
+2024-08-01 14:53:29.316 [main] INFO  wo.external.Main - Convert Ip address to location: Input file = D:/project/createLogTransfer/new/LogTran_20240731.xlsx
+2024-08-01 14:53:29.316 [main] INFO  wo.external.Main - Convert Ip address to location: Output file = D:/project/createLogTransfer/new/LogTran_20240731_out.xlsx
+2024-08-01 14:53:29.316 [main] INFO  wo.external.Main - Convert Ip address to location: File type = EXCEL
+2024-08-01 14:53:29.317 [main] INFO  wo.external.Main - Convert Ip address to location: File db = D:/project/createLogTransfer/new/GeoLite2-Country.mmdb
+2024-08-01 14:53:29.317 [main] INFO  wo.external.Main - Convert Ip address to location: Start reading file: D:/project/createLogTransfer/new/LogTran_20240731.xlsx
+2024-08-01 14:53:29.511 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-08-01 14:53:29.516 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-08-01 14:53:29.517 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-08-01 14:53:30.117 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-08-01 14:53:30.695 [main] INFO  wo.external.Main - Convert Ip address to location: Finish!

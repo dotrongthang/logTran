@@ -1,0 +1,5 @@
+step1: mvn clean package
+step2: config in resource.properties
+step3: coppy resource.properties to folder: .../target/conf
+step4: coppy run.bat to target
+step5: open run.bat or excute "java -jar ConvertIp-1.0-SNAPSHOT.jar"

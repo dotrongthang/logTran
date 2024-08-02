@@ -1,0 +1,5 @@
+# Project exclude paths
+/target/
+application-20231129.log
+application-20231130.log
+application-20231204.log

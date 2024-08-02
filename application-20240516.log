@@ -1,0 +1,108 @@
+2024-05-16 08:28:07.268 [main] INFO  wo.external.Main - Convert Ip address to location: Start!
+2024-05-16 08:28:07.282 [main] INFO  wo.external.Main - Convert Ip address to location: Input file = D:/Java/IP_LIST.xlsx
+2024-05-16 08:28:07.282 [main] INFO  wo.external.Main - Convert Ip address to location: Output file = D:/Java/out/IP_LIST_1.xlsx
+2024-05-16 08:28:07.282 [main] INFO  wo.external.Main - Convert Ip address to location: File type = EXCEL
+2024-05-16 08:28:07.282 [main] INFO  wo.external.Main - Convert Ip address to location: Start reading file: D:/Java/IP_LIST.xlsx
+2024-05-16 08:28:07.387 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-05-16 08:28:07.389 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-05-16 08:28:07.984 [main] INFO  wo.external.Main - Convert Ip address to location: Ip: 58.186.28.25 =>> country: Vietnam
+2024-05-16 08:28:07.989 [main] INFO  wo.external.Main - Convert Ip address to location: Ip: 116.100.83.180 =>> country: Vietnam
+2024-05-16 08:28:07.994 [main] INFO  wo.external.Main - Convert Ip address to location: Ip: 113.174.94.111 =>> country: Vietnam
+2024-05-16 08:28:07.999 [main] INFO  wo.external.Main - Convert Ip address to location: Ip: 113.174.94.111 =>> country: Vietnam
+2024-05-16 08:28:08.004 [main] INFO  wo.external.Main - Convert Ip address to location: Ip: 14.191.98.139 =>> country: Vietnam
+2024-05-16 08:28:08.009 [main] INFO  wo.external.Main - Convert Ip address to location: Ip: 27.67.184.27 =>> country: Vietnam
+2024-05-16 08:28:08.014 [main] INFO  wo.external.Main - Convert Ip address to location: Ip: 103.199.56.73 =>> country: Vietnam
+2024-05-16 08:28:08.018 [main] INFO  wo.external.Main - Convert Ip address to location: Ip: 58.186.71.229 =>> country: Vietnam
+2024-05-16 08:28:08.023 [main] INFO  wo.external.Main - Convert Ip address to location: Ip: 14.191.134.54 =>> country: Vietnam
+2024-05-16 08:28:08.023 [main] INFO  wo.external.Main - Convert Ip address to location: Start writing to file: D:/Java/out/IP_LIST_1.xlsx
+2024-05-16 08:28:08.057 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save content types part
+2024-05-16 08:28:08.092 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save package relationships
+2024-05-16 08:28:08.094 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/app.xml'
+2024-05-16 08:28:08.095 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/core.xml'
+2024-05-16 08:28:08.096 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/sharedStrings.xml'
+2024-05-16 08:28:08.096 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/styles.xml'
+2024-05-16 08:28:08.097 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/theme/theme1.xml'
+2024-05-16 08:28:08.097 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/workbook.xml'
+2024-05-16 08:28:08.098 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet1.xml'
+2024-05-16 08:28:08.103 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save content types part
+2024-05-16 08:28:08.104 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save package relationships
+2024-05-16 08:28:08.105 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/app.xml'
+2024-05-16 08:28:08.105 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/core.xml'
+2024-05-16 08:28:08.106 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/sharedStrings.xml'
+2024-05-16 08:28:08.106 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/styles.xml'
+2024-05-16 08:28:08.106 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/theme/theme1.xml'
+2024-05-16 08:28:08.107 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/workbook.xml'
+2024-05-16 08:28:08.108 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet1.xml'
+2024-05-16 08:28:08.109 [main] INFO  wo.external.Main - Convert Ip address to location: Finish!
+2024-05-16 14:23:48.800 [main] INFO  wo.external.Main - Convert Ip address to location: Start!
+2024-05-16 14:23:48.803 [main] INFO  wo.external.Main - Convert Ip address to location: Input file = D:/Java/IP_LIST.xlsx
+2024-05-16 14:23:48.804 [main] INFO  wo.external.Main - Convert Ip address to location: Output file = D:/Java/out/IP_LIST_1.xlsx
+2024-05-16 14:23:48.804 [main] INFO  wo.external.Main - Convert Ip address to location: File type = EXCEL
+2024-05-16 14:23:48.804 [main] INFO  wo.external.Main - Convert Ip address to location: Start reading file: D:/Java/IP_LIST.xlsx
+2024-05-16 14:23:48.904 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-05-16 14:23:48.906 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-05-16 14:23:49.461 [main] INFO  wo.external.Main - Convert Ip address to location: Ip: 58.186.28.25 =>> country: Vietnam
+2024-05-16 14:23:49.466 [main] INFO  wo.external.Main - Convert Ip address to location: Ip: 116.100.83.180 =>> country: Vietnam
+2024-05-16 14:23:49.471 [main] INFO  wo.external.Main - Convert Ip address to location: Ip: 113.174.94.111 =>> country: Vietnam
+2024-05-16 14:23:49.475 [main] INFO  wo.external.Main - Convert Ip address to location: Ip: 113.174.94.111 =>> country: Vietnam
+2024-05-16 14:23:49.480 [main] INFO  wo.external.Main - Convert Ip address to location: Ip: 14.191.98.139 =>> country: Vietnam
+2024-05-16 14:23:49.484 [main] INFO  wo.external.Main - Convert Ip address to location: Ip: 27.67.184.27 =>> country: Vietnam
+2024-05-16 14:23:49.489 [main] INFO  wo.external.Main - Convert Ip address to location: Ip: 103.199.56.73 =>> country: Vietnam
+2024-05-16 14:23:49.493 [main] INFO  wo.external.Main - Convert Ip address to location: Ip: 58.186.71.229 =>> country: Vietnam
+2024-05-16 14:23:49.496 [main] INFO  wo.external.Main - Convert Ip address to location: Ip: 14.191.134.54 =>> country: Vietnam
+2024-05-16 14:23:49.497 [main] INFO  wo.external.Main - Convert Ip address to location: Start writing to file: D:/Java/out/IP_LIST_1.xlsx
+2024-05-16 14:23:49.530 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save content types part
+2024-05-16 14:23:49.571 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save package relationships
+2024-05-16 14:23:49.574 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/app.xml'
+2024-05-16 14:23:49.574 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/core.xml'
+2024-05-16 14:23:49.575 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/sharedStrings.xml'
+2024-05-16 14:23:49.576 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/styles.xml'
+2024-05-16 14:23:49.576 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/theme/theme1.xml'
+2024-05-16 14:23:49.576 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/workbook.xml'
+2024-05-16 14:23:49.577 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet1.xml'
+2024-05-16 14:23:49.582 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save content types part
+2024-05-16 14:23:49.583 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save package relationships
+2024-05-16 14:23:49.584 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/app.xml'
+2024-05-16 14:23:49.584 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/core.xml'
+2024-05-16 14:23:49.585 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/sharedStrings.xml'
+2024-05-16 14:23:49.585 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/styles.xml'
+2024-05-16 14:23:49.585 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/theme/theme1.xml'
+2024-05-16 14:23:49.586 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/workbook.xml'
+2024-05-16 14:23:49.587 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet1.xml'
+2024-05-16 14:23:49.588 [main] INFO  wo.external.Main - Convert Ip address to location: Finish!
+2024-05-16 14:24:10.866 [main] INFO  wo.external.Main - Convert Ip address to location: Start!
+2024-05-16 14:24:21.351 [main] INFO  wo.external.Main - Convert Ip address to location: Input file = D:/Java/IP_LIST.xlsx
+2024-05-16 14:24:21.352 [main] INFO  wo.external.Main - Convert Ip address to location: Output file = D:/Java/out/IP_LIST_1.xlsx
+2024-05-16 14:24:21.352 [main] INFO  wo.external.Main - Convert Ip address to location: File type = EXCEL
+2024-05-16 14:24:21.352 [main] INFO  wo.external.Main - Convert Ip address to location: Start reading file: D:/Java/IP_LIST.xlsx
+2024-05-16 14:24:21.449 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-05-16 14:24:21.452 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-05-16 14:24:21.980 [main] INFO  wo.external.Main - Convert Ip address to location: Ip: 58.186.28.25 =>> country: Vietnam
+2024-05-16 14:24:21.985 [main] INFO  wo.external.Main - Convert Ip address to location: Ip: 116.100.83.180 =>> country: Vietnam
+2024-05-16 14:24:21.990 [main] INFO  wo.external.Main - Convert Ip address to location: Ip: 113.174.94.111 =>> country: Vietnam
+2024-05-16 14:24:21.994 [main] INFO  wo.external.Main - Convert Ip address to location: Ip: 113.174.94.111 =>> country: Vietnam
+2024-05-16 14:24:21.998 [main] INFO  wo.external.Main - Convert Ip address to location: Ip: 14.191.98.139 =>> country: Vietnam
+2024-05-16 14:24:22.002 [main] INFO  wo.external.Main - Convert Ip address to location: Ip: 27.67.184.27 =>> country: Vietnam
+2024-05-16 14:24:22.006 [main] INFO  wo.external.Main - Convert Ip address to location: Ip: 103.199.56.73 =>> country: Vietnam
+2024-05-16 14:24:22.011 [main] INFO  wo.external.Main - Convert Ip address to location: Ip: 58.186.71.229 =>> country: Vietnam
+2024-05-16 14:24:22.015 [main] INFO  wo.external.Main - Convert Ip address to location: Ip: 14.191.134.54 =>> country: Vietnam
+2024-05-16 14:24:22.016 [main] INFO  wo.external.Main - Convert Ip address to location: Start writing to file: D:/Java/out/IP_LIST_1.xlsx
+2024-05-16 14:24:22.043 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save content types part
+2024-05-16 14:24:22.067 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save package relationships
+2024-05-16 14:24:22.069 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/app.xml'
+2024-05-16 14:24:22.069 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/core.xml'
+2024-05-16 14:24:22.071 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/sharedStrings.xml'
+2024-05-16 14:24:22.071 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/styles.xml'
+2024-05-16 14:24:22.071 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/theme/theme1.xml'
+2024-05-16 14:24:22.072 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/workbook.xml'
+2024-05-16 14:24:22.073 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet1.xml'
+2024-05-16 14:24:22.077 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save content types part
+2024-05-16 14:24:22.078 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save package relationships
+2024-05-16 14:24:22.079 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/app.xml'
+2024-05-16 14:24:22.080 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/core.xml'
+2024-05-16 14:24:22.081 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/sharedStrings.xml'
+2024-05-16 14:24:22.081 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/styles.xml'
+2024-05-16 14:24:22.081 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/theme/theme1.xml'
+2024-05-16 14:24:22.081 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/workbook.xml'
+2024-05-16 14:24:22.082 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet1.xml'
+2024-05-16 14:24:22.083 [main] INFO  wo.external.Main - Convert Ip address to location: Finish!

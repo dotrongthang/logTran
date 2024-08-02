@@ -1,0 +1,12 @@
+2024-05-24 15:07:59.389 [main] INFO  wo.external.Main - Convert Ip address to location: Start!
+2024-05-24 15:07:59.399 [main] INFO  wo.external.Main - Convert Ip address to location: Input file = /u01/sftp/ip.alert/in/20240523.xlsx
+2024-05-24 15:07:59.400 [main] INFO  wo.external.Main - Convert Ip address to location: Output file = /u01/sftp/ip.alert/out/20240523_out.xlsx
+2024-05-24 15:07:59.400 [main] INFO  wo.external.Main - Convert Ip address to location: File type = EXCEL
+2024-05-24 15:07:59.400 [main] INFO  wo.external.Main - Convert Ip address to location: Start reading file: /u01/sftp/ip.alert/in/20240523.xlsx
+2024-05-24 15:07:59.401 [main] INFO  wo.external.Main - Convert Ip address to location: Finish!
+2024-05-24 15:08:44.192 [main] INFO  wo.external.Main - Convert Ip address to location: Start!
+2024-05-24 15:08:44.194 [main] INFO  wo.external.Main - Convert Ip address to location: Input file = /u01/sftp/ip.alert/in/LogTran_20240523.xlsx
+2024-05-24 15:08:44.194 [main] INFO  wo.external.Main - Convert Ip address to location: Output file = /u01/sftp/ip.alert/out/LogTran_20240523_out.xlsx
+2024-05-24 15:08:44.194 [main] INFO  wo.external.Main - Convert Ip address to location: File type = EXCEL
+2024-05-24 15:08:44.194 [main] INFO  wo.external.Main - Convert Ip address to location: Start reading file: /u01/sftp/ip.alert/in/LogTran_20240523.xlsx
+2024-05-24 15:08:44.195 [main] INFO  wo.external.Main - Convert Ip address to location: Finish!
